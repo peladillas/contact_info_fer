@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/peladillas/Contact_info_fer/blob/main/fer.jpg)]()
+[![Build Status](https://github.com/peladillas/Contact_info_fer/blob/main/fer.jpeg)]()
 
 ## MARIA FERNANDA PORRO
 
